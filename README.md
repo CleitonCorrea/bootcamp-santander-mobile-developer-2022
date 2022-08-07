@@ -46,8 +46,9 @@ add Sportmonks.com API
 ```
 
 
-** Tags	
+## Tags	
 
+```
 1.admob, 
 2.football, 
 3.ip tv, 
@@ -62,6 +63,7 @@ add Sportmonks.com API
 12.soccer, 
 13.sports, 
 14.statistics
+```
 
-### © All Rights Reserved rnmediadev007
-** Contact the Envato Market Help Team
+### © All Rights Reserved 
+** DeveloperBY Cleiton Correa **
