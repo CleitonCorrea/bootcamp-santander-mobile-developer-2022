@@ -1,0 +1,19 @@
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># App-Android-News-API\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- README.md	(revision 74d26c21c76b1ffe8e2a3a8b7bc49ed15bd568b5)
++++ README.md	(date 1635922702113)
+@@ -1,1 +1,9 @@
+ # App-Android-News-API
++
++Wireframe page principale (Tout les articles):
++
++![Wireframe_ _Maquette_App-News-API](https://user-images.githubusercontent.com/80514203/140019206-1ae7e648-6db8-4683-89b5-5d16eec8ca0a.png)
++
++Wireframe page d'un article:
++
++![Wireframe1_ _Maquette_App-News-API](https://user-images.githubusercontent.com/80514203/140019399-3d45ef7c-7a80-4957-8af7-ba2255bfda0a.png)
