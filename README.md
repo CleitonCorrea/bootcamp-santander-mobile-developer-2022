@@ -5,7 +5,7 @@
 ### Overview
 Live Soccer Score & News – live TV is an application that help users to watch live matches as well as this application contains all news update about soccer famale. User can also watch recently completed matches. Users can also view the full detail of each match, Lineups, Statistics and Commentary, live matches to their friends. More over Attractive application has a fabulous and user friendly interface..
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](images-portfolio/6p7c79.gif)
 
 ## Tecnologia
 Linguagens:
